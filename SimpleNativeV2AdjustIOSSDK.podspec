@@ -1,9 +1,9 @@
 Pod::Spec.new do |spec|
   spec.name = "SimpleNativeV2AdjustIOSSDK"
-  spec.version="0.1.2t"
+  spec.version="0.1.3"
   spec.summary= "Simple SDK V2 for include Adjust"
   spec.description= <<-DESC
-  Simple SDK V2 for include Adjust
+  Simple SDK V2 for include Adjust, please includ the core sdk more
   DESC
   spec.homepage= 'https://github.com/bepic-games/SimpleNativeV2AdjustIOSSDK'
   spec.license= { :type => 'MIT', :file => 'LICENSE' }
