@@ -1,0 +1,6 @@
+framework module SimpleNativeAdjust {
+  umbrella header "SimpleNativeAdjust.h"
+
+  export *
+  module * { export * }
+}
