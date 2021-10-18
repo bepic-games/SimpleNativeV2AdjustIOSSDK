@@ -19,11 +19,11 @@
 		</dict>
 		<key>Frameworks/SimpleNativeBase.framework/SimpleNativeBase</key>
 		<data>
-		0VDBRDOjq6shBBo52HPHZdlq+PM=
+		1hBI6Rxvs4eGBFFzK4kJJRAuKLk=
 		</data>
 		<key>Frameworks/SimpleNativeBase.framework/_CodeSignature/CodeDirectory</key>
 		<data>
-		wJVjDSeZWLNxUuCu3H0mDzTh33g=
+		KSe6IpkcCh5Q25bWr9rWiGbvBMk=
 		</data>
 		<key>Frameworks/SimpleNativeBase.framework/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -31,7 +31,7 @@
 		</data>
 		<key>Frameworks/SimpleNativeBase.framework/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		6j9IpZNP/NaPfLOJo47kh/prsF0=
+		KiqU15Jd7aqfMJQWXiWYPzJ7Srw=
 		</data>
 		<key>Frameworks/SimpleNativeBase.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -39,7 +39,7 @@
 		</data>
 		<key>Frameworks/SimpleNativeBase.framework/_CodeSignature/CodeSignature</key>
 		<data>
-		I1ZWKdxPwgUFVjYny+yeTAymUIU=
+		z+C+C32r6KXoihmCc03849Hvjhw=
 		</data>
 		<key>Headers/SimpleNativeAdjust.h</key>
 		<data>
@@ -84,22 +84,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			0VDBRDOjq6shBBo52HPHZdlq+PM=
+			1hBI6Rxvs4eGBFFzK4kJJRAuKLk=
 			</data>
 			<key>hash2</key>
 			<data>
-			ip8Wpnh85etON1QZuyD/E964zj/039C+fmJ9q17J3nQ=
+			BVLqA52Wa5CVl838WP8bdqnmHkTINbq6adMKGcNbh2o=
 			</data>
 		</dict>
 		<key>Frameworks/SimpleNativeBase.framework/_CodeSignature/CodeDirectory</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			wJVjDSeZWLNxUuCu3H0mDzTh33g=
+			KSe6IpkcCh5Q25bWr9rWiGbvBMk=
 			</data>
 			<key>hash2</key>
 			<data>
-			YiwGI/0JRGWvtKsM19FrO+/x+VabyDcJsTaMJVWrsP4=
+			pgQUn/bb4Y+EgN7IxA5kFGhuDI3HeyaI0sT62QDPlec=
 			</data>
 		</dict>
 		<key>Frameworks/SimpleNativeBase.framework/_CodeSignature/CodeRequirements</key>
@@ -117,11 +117,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			6j9IpZNP/NaPfLOJo47kh/prsF0=
+			KiqU15Jd7aqfMJQWXiWYPzJ7Srw=
 			</data>
 			<key>hash2</key>
 			<data>
-			qujaoYfz/yqkivkBfOBYWuUw97qINuMLwV+G0w4Kumk=
+			1cGr8UlMCWT/eq3e/lyeyGr3Lb7zHhzX4PsRouAIEiw=
 			</data>
 		</dict>
 		<key>Frameworks/SimpleNativeBase.framework/_CodeSignature/CodeResources</key>
@@ -139,11 +139,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			I1ZWKdxPwgUFVjYny+yeTAymUIU=
+			z+C+C32r6KXoihmCc03849Hvjhw=
 			</data>
 			<key>hash2</key>
 			<data>
-			SsxthhDZp8i6ytPAYypv/bb05LyQcVOlsmH7gtLlYtM=
+			kR3Jf02OI5IFTvWWhT7frJNVb72OLy0Dduic47m9FNA=
 			</data>
 		</dict>
 		<key>Headers/SimpleNativeAdjust.h</key>
