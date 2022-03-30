@@ -10,7 +10,12 @@
 #import <SimpleNativeBase/SimpleNativeBase.h>
 
 
-@interface SimpleNativeAdjust<SimpleSDKAttributionProtocol,AdjustDelegate> : NSObject
+@interface SimpleNativeAdjust<SimpleSDKAttributionProtocol, AdjustDelegate, ThirdUploadLoggerProtocol> : NSObject
+
+@property (nonatomic,strong) NSString * iosAdjustAddToCart;
+@property (nonatomic,strong) NSString * iosAdjustInitCheckout;
+@property (nonatomic,strong) NSString * iosAdjustPurchase;
+@property (nonatomic,strong) NSString * iosAdjustSubscription;
 
 @end
 //! Project version number for SimpleNativeAdjust.
