@@ -12,6 +12,9 @@
 
 @interface SimpleNativeAdjust<SimpleSDKAttributionProtocol, AdjustDelegate, ThirdUploadLoggerProtocol> : NSObject
 
+@property (nonatomic,strong) NSString * iosAdjustGameStart;
+@property (nonatomic,strong) NSString * iosAdjustRegister;
+@property (nonatomic,strong) NSString * iosAdjustLogin;
 @property (nonatomic,strong) NSString * iosAdjustAddToCart;
 @property (nonatomic,strong) NSString * iosAdjustInitCheckout;
 @property (nonatomic,strong) NSString * iosAdjustPurchase;
