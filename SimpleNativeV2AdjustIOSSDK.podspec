@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name = "SimpleNativeV2AdjustIOSSDK"
-  spec.version="0.3.29"
+  spec.version="0.3.30"
   spec.summary= "Simple SDK V2 for include Adjust"
   spec.description= <<-DESC
   Simple SDK V2 for include Adjust, please includ the core sdk more
